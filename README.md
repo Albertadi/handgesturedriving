@@ -14,16 +14,16 @@ This repository contains a **hand gesture recognition project** using **Mediapip
 
 ---
 
-## 🚀 Features
+## Features
 ✔ **Real-time gesture recognition** using OpenCV and Mediapipe  
 ✔ **MLP model** trained to classify hand gestures  
 ✔ **Confusion matrix & evaluation reports**  
 
 ---
 
-## 🔧 Setup Instructions
+## Setup Instructions
 
-### **1️⃣ Install Dependencies**
+### **Install Dependencies**
 Ensure you have the required Python packages installed:
 ```bash
 pip install tensorflow opencv-python mediapipe numpy scikit-learn joblib matplotlib seaborn
