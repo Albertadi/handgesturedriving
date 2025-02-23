@@ -15,9 +15,9 @@ This repository contains a **hand gesture recognition project** using **Mediapip
 ---
 
 ## Features
-✔ **Real-time gesture recognition** using OpenCV and Mediapipe  
-✔ **MLP model** trained to classify hand gestures  
-✔ **Confusion matrix & evaluation reports**  
+**Real-time gesture recognition** using OpenCV and Mediapipe  
+**MLP model** trained to classify hand gestures  
+**Confusion matrix & evaluation reports**  
 
 ---
 
