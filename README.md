@@ -26,6 +26,6 @@ This repository contains a **hand gesture recognition project** using **Mediapip
 ### **Install Dependencies**
 Ensure you have the required Python packages installed:
 ```bash
-pip install tensorflow opencv-python mediapipe numpy scikit-learn joblib matplotlib seaborn
+pip install tensorflow opencv-python mediapipe numpy scikit-learn matplotlib seaborn
 ```
 Run the last block within **CSCI218 Group Project.ipynb** to launch the system.
